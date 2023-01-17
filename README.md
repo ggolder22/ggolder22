@@ -1,4 +1,5 @@
 ▶️ Hola! Soy German Golder 🙂
+--------------------------------------
 👋 ¿Quién soy?
 Recientemente graduado en desarrollo web full stack en soyHenry. Disfruto del uso de la tecnología como herramienta creadora, y solucionadora de problemas. Descubrí el mundo de la programación a travez de mi experiencia laboral y la automatizacion industrial, decidí anotarme al bootcamp de Henry, para profundizar y aprender programacion del mundo real, donde todos los seres humanos tenemos conctacto a diario. 
 Lo que más me gusta de este mundo es que hay mucho por aprender, y eso es un gran disparador de motivación para mi curiosidad. 🤓🧠🚀
