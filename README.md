@@ -16,15 +16,25 @@ Quiero ser parte y guia de uno o varios grupos de trabajo con el fin de realizar
 🧰 ¿Qué tecnologías y lenguajes uso?
 
 JavaScript
+
 HTML
+
 CSS
+
 NodeJS
+
 Express
+
 React
+
 Redux
+
 Sequelize
+
 PostgreSQL
+
 Next.js
+
 Zustand
 
 📂 ¿Qué proyectos realicé?
