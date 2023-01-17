@@ -56,5 +56,8 @@ Link: https://easylearning-fp.web.app/
 📬 Contacto
 
 Email: germanxvzy985@hotmail.com
+
 LinkedIn: https://github.com/ggolder22
+
 Portfolio: https://germangolder-c2155.web.app/
+
